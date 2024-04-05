@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bijayrauniyar90
-- 👀 I’m interested in Web Development & C Prgramming.
+- 👀 I’m interested in Data Sceince, Cloud Computing & Web Development.
 - 🌱 I’m currently learning. 
 - 💞️ I’m looking to collaborate on web & android  development.
 - 📫 How to reach me (bijayrauniyar90@gmail.com)
