@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bijayrauniyar90
-- 👀 I’m interested in Data Sceince, Cloud Computing & Web Development.
+- 👀 I’m interested in Networking,  Data Sceince & Cloud Computing.
 - 🌱 I’m currently learning. 
-- 💞️ I’m looking to collaborate on Data Sceince, Cloud Computing & Networking.
+- 💞️ I’m looking to collaborate on Networking, Data Sceince & Cloud Computing.
 - 📫 How to reach me (bijayrauniyar90@gmail.com)
 
 <!---
