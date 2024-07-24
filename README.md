@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bijayrauniyar90@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/194HagK9fbEK0vTi0A0hx2LqnelYus5Dc/view?usp=sharing](https://drive.google.com/file/d/1OjHFjT5RFQVPESQov0BptL-s7_5FackS/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/194HagK9fbEK0vTi0A0hx2LqnelYus5Dc/view?usp=sharing]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
